@@ -1,4 +1,4 @@
-package dynamicproblems;
+package dynamics;
 
 /*
 * Given a set of integers, the task is to divide it into two sets S1 and S2
